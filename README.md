@@ -17,6 +17,11 @@ _Experienced technology architect with a focus on cloud-native and big data plat
 **Manager** @ [Deloitte UK](https://www2.deloitte.com/uk/) _(Sep 2017 - Sep 2019)_
 
 - Solution architect on the development of a managed automation platform on AWS using IaaS services such as EC2 and RDS
+- Automation lead on a managed services project for a large insurer handling c. 4,000 requests per week.
+- Solution architect on an intelligent automation pilot at a retail bank
+- Engagement manager on an automation project at a Tier 1 investment bank. The team identified and built robots linked to £3m identified benefits.
+- Solution Architect responsible for the Technology Architecture that underpins ideas, products and propositions within the Automation practice.
+- Design and facilitate multi-day automation training courses, personally having trained over 120+ people internally and externally.
 
 **Consultant - Assisstant Manager** @ [Deloitte UK]() _(Sep 2014 - Sep 2017)_
 
@@ -31,7 +36,7 @@ First Class Honours
 
 ## 🛠 Technical Skills
 **AWS**
-Solutions Architect - Associate, Big Data - Specialty
+Solutions Architect Associate, Big Data Specialty
 
 **Azure**
 Administrator Associate
