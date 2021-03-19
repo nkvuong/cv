@@ -6,31 +6,31 @@ _Experienced technology architect with a focus on cloud-native and big data plat
 
 ## 🏋️‍♂️ Key strengths
 - **Cloud architecture**: Experience in all major cloud providers, with current, deep technical knowledge– including hands-on – across infrastructure, big data, continuous delivery, networking and software.
-- **Big data and ML**: Experience in big data & ML architecture and toolings, with knowledge of cloud data analytics products including BigQuery, Databricks, EMR
+- **Big data and ML**: Experience in big data & ML architecture and toolings, with knowledge of cloud data analytics products including BigQuery, Databricks, EMR.
 - **Technology strategy**: Broad and deep knowledge of current trends in technology, how to use them to deliver business value, alongside the stakeholder management skills to bring people on the journey.
 
 
 ## 🚀 Experience
 **Managing Consultant** @ [Credera UK](http://www.credera.co.uk/) _(Oct 2019 - Present)_
 
-Worked on a number of Cloud-Native and Big Data platform projects, focusing on architectures while remaining close to hands-on development
+Worked on a number of Cloud-Native and Big Data platform projects, focusing on architectures while remaining close to hands-on development.
 
-- Cloud architect on a Google Cloud migration programme, designing the landing zone for pilot migrations
-- Technical architect on the data transformation programme of a large UK government department, developing a multi-cloud data mesh strategy and follow-on delivery of the vision on AWS
+- Cloud architect on a Google Cloud migration programme, designing the landing zone for pilot migrations.
+- Technical architect on the data transformation programme of a large UK government department, developing a multi-cloud data mesh strategy and follow-on delivery of the vision on AWS.
   - **_Technologies used:_** EMR (Presto, Spark), S3, Redshift, Kafka, Terraform
-- Assurance of a number of Azure & Google Cloud deployments
-- Architected and engineered a secure, self-serve multi-project Google Cloud environment
+- Assurance of a number of Azure & Google Cloud deployments.
+- Architected and engineered a secure, self-serve multi-project Google Cloud environment.
   - **_Technologies used:_** Terraform, BigQuery, GitHub Actions
 - Led the design, architecture and build of the internal Azure data platform.
   - **_Technologies used:_** Azure Data Factory, Databricks, Pyspark, Delta Lake, Event Hubs, Terraform, Azure DevOps
-- Thought leadership contribution across a range of topics including hybrid cloud, cloud cost management and DataOps
+- Thought leadership contribution across a range of topics including hybrid cloud, cloud cost management and DataOps.
 
 **Manager** @ [Deloitte UK](https://www2.deloitte.com/uk/) _(Sep 2017 - Sep 2019)_
 
-- Solution architect on the development of a managed automation platform on AWS
+- Solution architect on the development of a managed automation platform on AWS.
   - **_Technologies used:_** EC2, RDS, ASP.NET, C#, MS SQL, Azure DevOps
 - Automation lead on a managed services project for a large insurer handling c. 4,000 requests per week.
-- Solution architect on an intelligent automation pilot at a retail bank
+- Solution architect on an intelligent automation pilot at a retail bank.
 - Engagement manager and technical lead on an automation project at a Tier 1 investment bank. The team identified and built robots linked to £3m identified benefits.
 - Design and facilitate multi-day automation training courses, personally having trained over 120+ people internally and externally.
 
