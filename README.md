@@ -4,6 +4,12 @@ _Experienced technology architect with a focus on cloud-native and big data plat
 
 [LinkedIn](https://www.linkedin.com/in/vuong-nguyen/) / [GitHub](https://github.com/nkvuong/)
 
+## 🏋️‍♂️ Key strengths
+- **Cloud architecture**: Experience in all major cloud providers, with current, deep technical knowledge– including hands-on – across infrastructure, big data, continuous delivery, networking and software.
+- **Big data and ML**: Experience in big data & ML architecture and toolings, with knowledge of cloud data analytics products including BigQuery, Databricks, EMR
+- **Technology strategy**: Broad and deep knowledge of current trends in technology, how to use them to deliver business value, alongside the stakeholder management skills to bring people on the journey.
+
+
 ## 🚀 Experience
 **Managing Consultant** @ [Credera UK](http://www.credera.co.uk/) _(Oct 2019 - Present)_
 
@@ -14,7 +20,7 @@ Worked on a number of Cloud-Native and Big Data platform projects, focusing on a
   - **_Technologies used:_** EMR (Presto, Spark), S3, Redshift, Kafka, Terraform
 - Assurance of a number of Azure & Google Cloud deployments
 - Architected and engineered a secure, self-serve multi-project Google Cloud environment
-  - **_Technologies used:_** Terraform, GitHub Actions
+  - **_Technologies used:_** Terraform, BigQuery, GitHub Actions
 - Led the design, architecture and build of the internal Azure data platform.
   - **_Technologies used:_** Azure Data Factory, Databricks, Pyspark, Delta Lake, Event Hubs, Terraform, Azure DevOps
 - Thought leadership contribution across a range of topics including hybrid cloud, cloud cost management and DataOps
@@ -41,14 +47,7 @@ Worked on a number of Cloud-Native and Big Data platform projects, focusing on a
 First Class Honours
 
 ## 🛠 Technical Certifications
-**AWS**
-Solutions Architect Associate, Big Data Specialty
-
-**Azure**
-Administrator Associate
-
-**Databricks**
-Associate Developer for Apache Spark
-
-**Google Cloud**
-Professional Data Engineer, Professional Solution Architect, Professional Cloud Security Engineer, Associate Cloud Engineer
+- **AWS**: Solutions Architect Associate, Big Data Specialty
+- **Azure**: Administrator Associate
+- **Databricks**: Associate Developer for Apache Spark
+- **Google Cloud**: Professional Data Engineer, Professional Solution Architect, Professional Cloud Security Engineer, Associate Cloud Engineer
