@@ -42,7 +42,7 @@ Worked on a number of Cloud-Native and Big Data platform projects, focusing on a
 - BI analyst providing data and analytics support for capacity planning and forecasting within the remediation programme.
 
 ## 📝 Education
-**BSc in Maths & Computer Science** @ [University of Southampton](https://www.southampton.ac.uk/) _(2011_2014)_
+**BSc in Maths & Computer Science** @ [University of Southampton](https://www.southampton.ac.uk/) _(2011 - 2014)_
 
 First Class Honours
 
