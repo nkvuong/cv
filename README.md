@@ -27,7 +27,7 @@ Worked on a number of Cloud-Native and Big Data platform projects, focusing on a
 
 **Manager** @ [Deloitte UK](https://www2.deloitte.com/uk/) _(Sep 2017 - Sep 2019)_
 
-- Solution architect on the development of a managed automation platform on AWS.
+- Solution architect for a managed automation platform on AWS.
   - **_Technologies used:_** EC2, RDS, ASP.NET, C#, MS SQL, Azure DevOps
 - Automation lead on a managed services project for a large insurer handling c. 4,000 requests per week.
 - Solution architect on an intelligent automation pilot at a retail bank.
