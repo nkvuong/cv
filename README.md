@@ -6,7 +6,7 @@ _Experienced technology architect with a focus on cloud-native and big data plat
 
 ## 🏋️‍♂️ Key strengths
 - **Cloud architecture**: Experience in all major cloud providers, with current, deep technical knowledge– including hands-on – across infrastructure, big data, continuous delivery, networking and software.
-- **Big data and ML**: Experience in big data & ML architecture and toolings, with knowledge of cloud data analytics products including BigQuery, Databricks, EMR.
+- **Big data and ML**: Experience in big data & ML architecture and toolings, with knowledge of cloud data analytics products including Databricks, EMR, BigQuery.
 - **Technology strategy**: Broad and deep knowledge of current trends in technology, how to use them to deliver business value, alongside the stakeholder management skills to bring people on the journey.
 
 
