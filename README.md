@@ -6,17 +6,27 @@ _Broad and deep knowledge of current trends in technology, how to use them to de
 
 _Core strength in Data Engineering with current, deep technical knowledge – including hands-on – of big data technologies and cloud data warehouse such as Databricks, Spark and BigQuery_
 
-<br>
-
 [LinkedIn](https://www.linkedin.com/in/vuong-nguyen/) / [GitHub](https://github.com/nkvuong/)
 
-## 🏋️‍♂️ Key strengths
-- **Cloud architecture**: Experience in all major cloud providers, with current, deep technical knowledge– including hands-on – across infrastructure, big data, continuous delivery, networking and software.
-- **Big data and ML**: Experience in big data & ML architecture and toolings, with knowledge of cloud data analytics products including Databricks, EMR, BigQuery.
-- **Technology strategy**: Broad and deep knowledge of current trends in technology, how to use them to deliver business value, alongside the stakeholder management skills to bring people on the journey.
+## 🔥 Key works
+📚 Thought leaderships and blogs:
+- [Designing a Java Connector for Delta Sharing Recipient](https://databricks.com/blog/2022/06/29/designing-a-java-connector-for-delta-sharing-recipient.html)
+- [Databricks Terraform Provider Is Now Generally Available](https://databricks.com/blog/2022/06/22/databricks-terraform-provider-is-now-generally-available.html)
+- [Arcuate – Machine Learning Model Exchange With Delta Sharing and MLflow](https://databricks.com/blog/2022/05/24/arcuate-machine-learning-model-exchange-with-delta-sharing-and-mlflow.html)
+- [Catalog and Discover Your Databricks Notebooks Faster](https://databricks.com/blog/2021/09/22/catalog-and-discover-your-databricks-notebooks-faster.html)
+- [Tech trends 2021: Unprecedented challenges and opportunities](https://www.credera.co.uk/insights/tech-trends-2021-unprecedented-challenges-and-opportunities)
+- [How can the public sector use AI effectively? Part 1](https://www.credera.co.uk/insights/how-public-sector-can-use-ai-machine-learning)
+- [How can the public sector use AI effectively? Part 2](https://www.credera.co.uk/insights/ai-public-sector-guidance)
+- [Operational resilience in Financial Services: Our approach](https://www.credera.co.uk/insights/operational-resiliency-in-financial-services-our-approach)
+- [The best way for companies to save money using public, private, and hybrid cloud](https://www.credera.co.uk/insights/how-to-save-money-using-the-cloud)
 
+🖥️ Open-source contributions:
+- [Delta Sharing Java connector](https://github.com/databrickslabs/delta-sharing-java-connector)
+- [ML model sharing for Delta Sharing](https://github.com/databrickslabs/arcuate)
+- [Databricks Unity Catalog setup](https://github.com/databricks/unity-catalog-setup)
+- [Databricks Terraform Provider](https://github.com/databricks/terraform-provider-databricks)
 
-## 🚀 Experience
+## 🚀 Experiences
 **Senior Solutions Architect** @ [Databricks](https://databricks.com/) _(Apr 2021 - Present)_
 
 Own the technical data strategy of several key customers and act as the trusted advisor to technical executives that guide strategic data infrastructure decisions, focusing on the adoption of Databricks Lakehouse platform.
@@ -24,11 +34,6 @@ Own the technical data strategy of several key customers and act as the trusted 
 - Provide technical leadership to guide strategic customers to successful implementations on big data projects, ranging from architectural design, data engineering to ML model deployment.
 - Architect production-level workloads, including end-to-end pipeline load performance testing and optimization. 
 - Data management and cloud platforms SME for internal communities and key strategic customers, focusing on automation (Terraform), data governance (Unity Catalog) and data sharing (Delta Sharing) capabilities.
-
-Key pen-source contributions:
-- [Delta Sharing Java connector](https://github.com/databrickslabs/delta-sharing-java-connector)
-- [ML model sharing for Delta Sharing](https://github.com/databrickslabs/arcuate)
-- [Databricks Unity Catalog enablement](https://github.com/databricks/unity-catalog-setup)
 
 **Managing Consultant** @ [Credera UK](http://www.credera.co.uk/) _(Oct 2019 - Apr 2021)_
 
@@ -42,7 +47,6 @@ Worked on a number of Cloud-Native and Big Data platform projects, focusing on a
 **Manager** @ [Deloitte UK](https://www2.deloitte.com/uk/) _(Sep 2017 - Sep 2019)_
 
 - Solution architect for a managed automation platform on AWS.
-  - **_Technologies used:_** EC2, RDS, ASP.NET, C#, MS SQL, Azure DevOps
 - Automation lead on a managed services project for a large insurer handling c. 4,000 requests per week.
 - Solution architect on an intelligent automation pilot at a retail bank.
 - Engagement manager and technical lead on an automation project at a Tier 1 investment bank. The team identified and built robots linked to £3m identified benefits.
