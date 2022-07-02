@@ -1,15 +1,15 @@
 # Vuong Nguyen
 
-_Technical architect specialised in big data platform and cloud technologies with a wide range of experience in different architecture domains: infrastructure, big data, continuous delivery, networking and software_
+Technical architect specialised in big data platform and cloud technologies with a wide range of experience in different architecture domains: infrastructure, big data, continuous delivery, networking and software.
 
-_Broad and deep knowledge of current trends in technology, how to use them to deliver business value alongside the stakeholder management skills to bring people on the journey._
+Broad and deep knowledge of current trends in technology, how to use them to deliver business value alongside the stakeholder management skills to bring people on the journey.
 
-_Core strength in Data Engineering with current, deep technical knowledge – including hands-on – of big data technologies and cloud data warehouse such as Databricks, Spark and BigQuery_
+Core strength in Data Engineering with current, deep technical knowledge – including hands-on – of big data technologies and cloud data warehouse such as Databricks, Spark and BigQuery.
 
 [LinkedIn](https://www.linkedin.com/in/vuong-nguyen/) / [GitHub](https://github.com/nkvuong/)
 
 ## 🔥 Key works
-📚 Thought leaderships and blogs:
+📚 Thought leadership and blogs:
 - [Designing a Java Connector for Delta Sharing Recipient](https://databricks.com/blog/2022/06/29/designing-a-java-connector-for-delta-sharing-recipient.html)
 - [Databricks Terraform Provider Is Now Generally Available](https://databricks.com/blog/2022/06/22/databricks-terraform-provider-is-now-generally-available.html)
 - [Arcuate – Machine Learning Model Exchange With Delta Sharing and MLflow](https://databricks.com/blog/2022/05/24/arcuate-machine-learning-model-exchange-with-delta-sharing-and-mlflow.html)
@@ -46,9 +46,9 @@ Worked on a number of Cloud-Native and Big Data platform projects, focusing on a
 
 **Manager** @ [Deloitte UK](https://www2.deloitte.com/uk/) _(Sep 2017 - Sep 2019)_
 
-- Solution architect for a managed automation platform on AWS.
+- Solutions architect for a managed automation platform on AWS.
 - Automation lead on a managed services project for a large insurer handling c. 4,000 requests per week.
-- Solution architect on an intelligent automation pilot at a retail bank.
+- Solutions architect on an intelligent automation pilot at a retail bank.
 - Engagement manager and technical lead on an automation project at a Tier 1 investment bank. The team identified and built robots linked to £3m identified benefits.
 - Design and facilitate multi-day automation training courses, personally having trained over 120+ people internally and externally.
 
@@ -56,7 +56,6 @@ Worked on a number of Cloud-Native and Big Data platform projects, focusing on a
 
 - Lead developer on a large-scale RPA project for a UK retail bank with around 100 robots delivering c. 25% productivity uplift.
 - Design and development of load-balancing processes and web-based monitoring tools to support automation software.
-  - **_Technologies used:_** ASP.NET, C#, MS SQL
 - BI analyst providing data and analytics support for capacity planning and forecasting within the remediation programme.
 
 ## 🛠 Technical Certifications
@@ -67,5 +66,4 @@ Worked on a number of Cloud-Native and Big Data platform projects, focusing on a
 
 ## 📝 Education
 **BSc in Maths & Computer Science** @ [University of Southampton](https://www.southampton.ac.uk/) _(2011 - 2014)_
-
 - First Class Honours
