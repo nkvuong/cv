@@ -1,6 +1,12 @@
 # Vuong Nguyen
 
-_Experienced technology architect with a focus on cloud-native and big data platforms, holding certifications in all 3 major cloud providers. Broad knowledge of wider application, data, infrastructure, and integration architecture concerns_ <br>
+_Technical architect specialised in big data platform and cloud technologies with a wide range of experience in different architecture domains: infrastructure, big data, continuous delivery, networking and software_
+
+_Broad and deep knowledge of current trends in technology, how to use them to deliver business value alongside the stakeholder management skills to bring people on the journey._
+
+_Core strength in Data Engineering with current, deep technical knowledge – including hands-on – of big data technologies and cloud data warehouse such as Databricks, Spark and BigQuery_
+
+<br>
 
 [LinkedIn](https://www.linkedin.com/in/vuong-nguyen/) / [GitHub](https://github.com/nkvuong/)
 
@@ -11,19 +17,27 @@ _Experienced technology architect with a focus on cloud-native and big data plat
 
 
 ## 🚀 Experience
-**Managing Consultant** @ [Credera UK](http://www.credera.co.uk/) _(Oct 2019 - Present)_
+**Senior Solutions Architect** @ [Databricks](https://databricks.com/) _(Apr 2021 - Present)_
+
+Own the technical data strategy of several key customers and act as the trusted advisor to technical executives that guide strategic data infrastructure decisions, focusing on the adoption of Databricks Lakehouse platform.
+- Manage the technical account team to drive the most critical use cases forward, handle escalations and mentor team members. This results in 4x growth in the territory consumption in the last year to c. $600k/quarter.
+- Provide technical leadership to guide strategic customers to successful implementations on big data projects, ranging from architectural design, data engineering to ML model deployment.
+- Architect production-level workloads, including end-to-end pipeline load performance testing and optimization. 
+- Data management and cloud platforms SME for internal communities and key strategic customers, focusing on automation (Terraform), data governance (Unity Catalog) and data sharing (Delta Sharing) capabilities.
+
+Key pen-source contributions:
+- [Delta Sharing Java connector](https://github.com/databrickslabs/delta-sharing-java-connector)
+- [ML model sharing for Delta Sharing](https://github.com/databrickslabs/arcuate)
+- [Databricks Unity Catalog enablement](https://github.com/databricks/unity-catalog-setup)
+
+**Managing Consultant** @ [Credera UK](http://www.credera.co.uk/) _(Oct 2019 - Apr 2021)_
 
 Worked on a number of Cloud-Native and Big Data platform projects, focusing on architectures while remaining close to hands-on development.
 
-- Cloud architect on a Google Cloud migration programme, designing the landing zone for pilot migrations.
-- Technical architect on the data transformation programme of a large UK government department, developing a multi-cloud data mesh strategy and follow-on delivery of the vision on AWS.
-  - **_Technologies used:_** EMR (Presto, Spark), S3, Redshift, Kafka, Terraform
-- Assurance of a number of Azure & Google Cloud deployments.
-- Architected and engineered a secure, self-serve multi-project Google Cloud environment.
-  - **_Technologies used:_** Terraform, BigQuery, GitHub Actions
-- Led the design, architecture and build of the internal Azure data platform.
-  - **_Technologies used:_** Azure Data Factory, Databricks, Pyspark, Delta Lake, Event Hubs, Terraform, Azure DevOps
-- Thought leadership contribution across a range of topics including hybrid cloud, cloud cost management and DataOps.
+- Worked alongside the CDO and leadership team to develop a new, cloud-first vision and strategy for the technology underpinning data and analytics, including a path for legacy and enablement of future citizen services.
+- Key architect on the data transformation programme of a large UK government department, defining the architecture for future state data and analytics products by adopting the industry-standard architectural style data mesh.
+- Hands-on delivery of key reference implementations on AWS using cloud-native big data services such as EMR (Presto, Spark), S3, Redshift and Kafka.
+- Technical lead for Google Cloud partnership. Thought leadership contributions across a range of topics including hybrid cloud, cloud cost optimisation, AI and DataOps.
 
 **Manager** @ [Deloitte UK](https://www2.deloitte.com/uk/) _(Sep 2017 - Sep 2019)_
 
@@ -41,13 +55,13 @@ Worked on a number of Cloud-Native and Big Data platform projects, focusing on a
   - **_Technologies used:_** ASP.NET, C#, MS SQL
 - BI analyst providing data and analytics support for capacity planning and forecasting within the remediation programme.
 
+## 🛠 Technical Certifications
+- **AWS**: Big Data Specialty
+- **Azure**: Azure Data Engineer Associate
+- **Databricks**: Professional Data Engineer
+- **Google Cloud**: Professional Data Engineer, Professional Solution Architect
+
 ## 📝 Education
 **BSc in Maths & Computer Science** @ [University of Southampton](https://www.southampton.ac.uk/) _(2011 - 2014)_
 
-First Class Honours
-
-## 🛠 Technical Certifications
-- **AWS**: Solutions Architect Associate, Big Data Specialty
-- **Azure**: Administrator Associate
-- **Databricks**: Associate Developer for Apache Spark
-- **Google Cloud**: Professional Data Engineer, Professional Solution Architect, Professional Cloud Security Engineer, Associate Cloud Engineer
+- First Class Honours
