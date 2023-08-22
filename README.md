@@ -10,6 +10,9 @@ Core strength in Data Engineering with current, deep technical knowledge – inc
 
 ## 🔥 Key works
 📚 Thought leadership and blogs:
+- [Data Sharing and Beyond with Delta Sharing](https://www.databricks.com/dataaisummit/session/data-sharing-and-beyond-delta-sharing/)
+- [The Hitchhiker's Guide to data privilege model and access control in Unity Catalog](https://www.databricks.com/blog/hitchhikers-guide-data-privilege-model-and-access-control-unity-catalog)
+- [An Automated Guide to Distributed and Decentralized Management of Unity Catalog](https://www.databricks.com/blog/2022/12/08/automated-guide-distributed-and-decentralized-management-unity-catalog.html)
 - [Designing a Java Connector for Delta Sharing Recipient](https://databricks.com/blog/2022/06/29/designing-a-java-connector-for-delta-sharing-recipient.html)
 - [Databricks Terraform Provider Is Now Generally Available](https://databricks.com/blog/2022/06/22/databricks-terraform-provider-is-now-generally-available.html)
 - [Arcuate – Machine Learning Model Exchange With Delta Sharing and MLflow](https://databricks.com/blog/2022/05/24/arcuate-machine-learning-model-exchange-with-delta-sharing-and-mlflow.html)
@@ -21,10 +24,10 @@ Core strength in Data Engineering with current, deep technical knowledge – inc
 - [The best way for companies to save money using public, private, and hybrid cloud](https://www.credera.co.uk/insights/how-to-save-money-using-the-cloud)
 
 🖥️ Open-source contributions:
+- [Databricks Terraform Provider](https://github.com/databricks/terraform-provider-databricks)
 - [Delta Sharing Java connector](https://github.com/databrickslabs/delta-sharing-java-connector)
 - [ML model sharing for Delta Sharing](https://github.com/databrickslabs/arcuate)
 - [Databricks Unity Catalog setup](https://github.com/databricks/unity-catalog-setup)
-- [Databricks Terraform Provider](https://github.com/databricks/terraform-provider-databricks)
 
 ## 🚀 Experiences
 **Senior Solutions Architect** @ [Databricks](https://databricks.com/) _(Apr 2021 - Present)_
@@ -61,7 +64,7 @@ Worked on a number of Cloud-Native and Big Data platform projects, focusing on a
 ## 🛠 Technical Certifications
 - **AWS**: Big Data Specialty
 - **Azure**: Azure Data Engineer Associate
-- **Databricks**: Professional Data Engineer
+- **Databricks**: Professional Data Engineer, Machine Learning Associate
 - **Google Cloud**: Professional Data Engineer, Professional Solution Architect
 
 ## 📝 Education
